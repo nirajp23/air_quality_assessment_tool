@@ -1,4 +1,4 @@
-#Air Quality Assessment Tool
+## Air Quality Assessment Tool
 
 This assessment tool allows the user to search for two cities and displays the air quality for both of the cities on the same page. The data is retrived using OpenAQ API.
 
