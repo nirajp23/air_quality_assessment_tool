@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+#Air Quality Assessment Tool
+
+This assessment tool allows the user to search for two cities and displays the air quality for both of the cities on the same page. The data is retrived using OpenAQ API.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
